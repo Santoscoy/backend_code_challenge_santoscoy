@@ -1,7 +1,7 @@
 # BACKEND CODE CHALLENGE
 
 ## Instructions to run 
-Easy way: visit the this [link](http://santoscoy.pythonanywhere.com) and login with:
+Easy way: visit this [link](http://santoscoy.pythonanywhere.com) and login with:
 + username: admin
 + password: admin
 
