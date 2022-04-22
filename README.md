@@ -26,7 +26,7 @@ It then will ask you to enter a username, email address and password. When finis
 and login with the username and password you have been register.
 ## Instructions to fill the information of admin user
 
-Now you should be on the home page, go to the User link at left as the follow image
+Now you should be on the home page, go to the *User* link at left as the follow image:
 
 ![User_link](https://user-images.githubusercontent.com/92071602/164566577-5af8d3ac-3c96-445d-b2fa-2b6d64b9bb93.jpeg)
 
@@ -105,11 +105,16 @@ You will be redirect to a email objects page and should seems like this:
 you can click on the *Python Course* link and the fields that where empty are now rendered as the template that have been selected before, also 
 can click on the *VIEW ON SITE* button to show how is rendered in a html template.
 
-NOTE: The admin site have some configured features, like look in email templates by template name, or
+#### NOTES
+
+1. The admin site have some configured features, like look in email templates by template name, or
 look in emails by related template, related user or the email address of the creator of the email, also
 if the data base have a lot of emails can filter by related template, related user ,etc.
 
-
+2. For practicity the data base of the production site has some registers of users, and one email template, and one email. 
+3. Can login as staff by enter:
+  + username: staff
+  + password: staff
 
 
 
